@@ -9,7 +9,7 @@
 
 | Name | Role |
 |------|------|
-| Tommy Pham | Hardware + Software + strategy | 
+| Tommy Pham | Hardware + Software + Strategy | 
 | Jacob Lontoc | Hardware + Firmware |
 | Isaac Boteler | Software 
 
