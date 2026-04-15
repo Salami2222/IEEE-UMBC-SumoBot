@@ -9,8 +9,8 @@
 
 | Name | Role |
 |------|------|
-| Tommy Pham | Hardware/Software / Strategy and testing | 
-| Jacob Lontoc | Hardware / Firmware |
+| Tommy Pham | Hardware + Software + strategy | 
+| Jacob Lontoc | Hardware + Firmware |
 | Isaac Boteler | Software 
 
 ---
