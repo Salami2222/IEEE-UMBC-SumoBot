@@ -9,7 +9,7 @@
 
 | Name | Role |
 |------|------|
-| Tommy Pham | Integration / Strategy | Testing | Firmware
+| Tommy Pham | Hardware/Software / Strategy and testing | 
 | Jacob Lontoc | Hardware / Firmware |
 | Isaac Boteler | Software 
 
